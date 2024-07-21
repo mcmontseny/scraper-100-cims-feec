@@ -28,3 +28,6 @@ out/
 # Miscellaneous
 .DS_Store
 Thumbs.db
+
+# Fitxer generat per l'script
+muntanyesRepte100CimsFEEC.json
