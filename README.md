@@ -16,7 +16,7 @@ Aquest script fa servir diverses biblioteques de Node.js per fer peticions a l'A
 1. Clona aquest repositori:
 
    ```bash
-   git clone https://github.com/el_teu_usuari/scraper-100-cims-feec.git
+   git clone https://github.com/mcmontseny/scraper-100-cims-feec.git
    ```
 
 2. Navega al directori del projecte:
